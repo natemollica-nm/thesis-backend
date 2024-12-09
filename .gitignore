@@ -131,3 +131,6 @@ dist
 
 ## WebStorm
 .idea
+
+## Firebase Service Account
+firebase-service-account.json
